@@ -1,2 +1,2 @@
-# myPersonalProfilePage
- TeamTreehouseProject1
+# My Personal Profile Page
+ Team Treehouse Project #1
