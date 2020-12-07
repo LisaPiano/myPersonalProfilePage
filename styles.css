@@ -120,6 +120,22 @@ ul.skills {
   background: #0399ff;
 }
 
+
+.hobby-list{
+  color: #6633ff;
+  padding: 5px 10px;
+  margin-top: 100px; 
+  line-height: 100px; 
+  font-size: 30px; 
+}
+ul.no-bullets{
+  list-style-type: none; 
+}
+ul li .pic{
+  width: 200px; 
+  height: 200px; 
+}
+
 footer {
   width: 100%;
   min-height: 30px;
@@ -151,12 +167,7 @@ a.social {
   opacity: .4;
   transition: all .5s;
 }
-a.twitter {
-  background-image: url(images/twitter.svg);
-}
-a.linkedin {
-  background-image: url(images/linkedin.svg);
-}
+
 a.github {
   background-image: url(images/github.svg);
 }
