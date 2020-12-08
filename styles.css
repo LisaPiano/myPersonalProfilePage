@@ -88,7 +88,7 @@ header .profile-image:hover {
   background-color: #222;
   color: yellow;
 }
-.card {
+.article {
   margin: 30px;
   padding: 20px 40px 40px;
   max-width: 500px;
@@ -121,6 +121,10 @@ ul.skills {
 }
 
 /*styles for hobbies*/
+.hobby-body {
+  background-color: papayawhip;
+}
+
 .hobby-list {
   color: #6633ff;
   padding: 5px 10px;
@@ -173,7 +177,7 @@ ul li .pic:hover{
   background-color: silver;
   height: 80px; 
 }
-#resume-list {
+.resume-list {
   color: black; 
 }
 
@@ -212,12 +216,18 @@ a.resumeFooter {
   color: black; 
   text-decoration: underline; 
 }
+.break {
+  padding: 20px; 
+}
 /*styles for contact*/
 .contact-nav {
   background-color: peru;
 }
+.contact-body {
+  background-color: lightgoldenrodyellow;
+}
 .email {
-  color:yellowgreen; 
+  color:purple; 
 }
 .card {
   box-shadow: 0 4px 8px 0 rgba(0, 0, 0.2); 
